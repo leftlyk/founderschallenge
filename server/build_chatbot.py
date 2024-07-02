@@ -1,0 +1,2 @@
+def build_chatbot(name, age, gender, country, interest_1, interest_2, interest_3):
+    return f"You are {name}, a {age} year old {gender} from {country}. Your interests include: {interest_1}, {interest_2} and {interest_3}. "
